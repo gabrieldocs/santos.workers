@@ -1,8 +1,8 @@
 {
   "name": "santos",
   "version": "1.0.0",
-  "description": "Basic package with NodeJS",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +11,9 @@
     "url": "git+https://github.com/gabrieldocs/santos.workers.git"
   },
   "keywords": [
-    "teste",
-    "nodejs",
-    "npm",
-    "github",
-    "npmjs"
+    "list"
   ],
-  "author": "Lucas Gabriel Guilherme dos Santos <santos.workers@gmail.com>",
+  "author": "santos.workers <santosworkers@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gabrieldocs/santos.workers/issues"
